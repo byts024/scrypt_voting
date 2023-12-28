@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrypt_voting/static/css/main.c33a9d22.css",
+    "main.js": "/scrypt_voting/static/js/main.af85d102.js",
+    "static/js/787.7bba6ff0.chunk.js": "/scrypt_voting/static/js/787.7bba6ff0.chunk.js",
+    "index.html": "/scrypt_voting/index.html",
+    "main.c33a9d22.css.map": "/scrypt_voting/static/css/main.c33a9d22.css.map",
+    "main.af85d102.js.map": "/scrypt_voting/static/js/main.af85d102.js.map",
+    "787.7bba6ff0.chunk.js.map": "/scrypt_voting/static/js/787.7bba6ff0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c33a9d22.css",
+    "static/js/main.af85d102.js"
+  ]
+}
